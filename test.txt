@@ -1,1 +1,3 @@
 Hello this is example text file
+Hello there.
+General Kenobi. You are a bold one. Kill him!
